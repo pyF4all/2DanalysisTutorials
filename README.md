@@ -1,2 +1,2 @@
 # 2DanalysisTutorials
-Collection of tutorials and examples of the novel MDanalysis library 2Danalysis, for biophysical systems
+Collection of tutorials and examples of the novel MDanalysis library twodanalysis, for biophysical systems 
