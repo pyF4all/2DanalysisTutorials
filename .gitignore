@@ -1,4 +1,5 @@
 *.gro
 *.xtc
 *.tpr
-.ipynb_checkpoints/
+.*
+!/.gitignore
