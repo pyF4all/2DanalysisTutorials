@@ -40,16 +40,17 @@ Ensure that you have [conda](https://docs.conda.io/projects/conda/en/latest/user
 Create a virtual environment and activate it:
 
 ```
-conda create --name twod-analysis-kit
-conda activate twod-analysis-kit
+conda create --name twod
+conda activate twod
 ```
 
 Install the development and documentation dependencies:
 
 ```
+git clone https://github.com/monjegroup/twod-analysis-kit.git
 cd twod-analysis-kit
-conda env update --name twod-analysis-kit --file devtools/conda-envs/test_env.yaml
-conda env update --name twod-analysis-kit --file docs/requirements.yaml
+conda env update --name twod --file devtools/conda-envs/test_env.yaml
+conda env update --name twod --file docs/requirements.yaml
 ```
 
 Build this package from source:
@@ -58,7 +59,7 @@ Build this package from source:
 pip install -e .
 ```
 
-If you want to update your dependencies (which can be risky!), run:
+If you want to update your dependencies (which could be risky!), run:
 
 ```
 conda update --all
@@ -90,7 +91,7 @@ pip install ".[test,doc]"
 The 2D Analysis source code is hosted at https://github.com/monjegroup/twod-analysis-kit
 and is available under the GNU General Public License, version 2 (see the file [LICENSE](https://github.com/monjegroup/twod-analysis-kit/blob/main/LICENSE)).
 
-Copyright (c) 2024, Ricardo Ramirez, Antonio Bosch, Ruben Perez, Horacio V Guzman, and Viviana Monje
+Copyright (c) 2025, Ricardo Ramirez, Antonio Bosch, Ruben Perez, Horacio V Guzman, and Viviana Monje
 
 
 #### Acknowledgements
