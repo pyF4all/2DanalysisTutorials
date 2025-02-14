@@ -99,3 +99,9 @@ Copyright (c) 2025, Ricardo Ramirez, Antonio Bosch, Ruben Perez, Horacio V Guzma
 Project based on the 
 [MDAnalysis Cookiecutter](https://github.com/MDAnalysis/cookiecutter-mda) version 0.1.
 Please cite [MDAnalysis](https://github.com/MDAnalysis/mdanalysis#citation) when using 2D Analysis in published work.
+
+#### Funding Acknowledgements
+
+H.V.G. acknowledges financial support from the Ramón y Cajal grant No. RYC2022-038082-I and Spanish Ministry of Science and Innovation, through project PIDPID2023-150536NA-I00, and the “Severo Ochoa” Grant No. CEX2023-001263-S for Centers of Excellence; and thanks the Red Española de Supercomputación (RES) for the computing time and technical support at the Finisterrae III supercomputer project FI-2024-3-0033.
+
+
