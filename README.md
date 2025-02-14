@@ -91,7 +91,7 @@ pip install ".[test,doc]"
 The 2D Analysis source code is hosted at https://github.com/monjegroup/twod-analysis-kit
 and is available under the GNU General Public License, version 2 (see the file [LICENSE](https://github.com/monjegroup/twod-analysis-kit/blob/main/LICENSE)).
 
-Copyright (c) 2025, Ricardo Ramirez, Antonio Bosch, Ruben Perez, Horacio V Guzman, and Viviana Monje
+Copyright (c) 2025, Ricardo Ramirez, Antonio Bosch, Ruben Perez, Horacio V. Guzman, and Viviana Monje
 
 
 #### Acknowledgements
