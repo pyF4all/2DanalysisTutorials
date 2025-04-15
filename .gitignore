@@ -1,4 +1,5 @@
 *.gro
+*.pdb
 *.xtc
 *.tpr
 */.*
